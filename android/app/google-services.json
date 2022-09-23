@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897430375646",
+    "project_id": "watchads-511d6",
+    "storage_bucket": "watchads-511d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897430375646:android:ce97558fb3ccce7991c64f",
+        "android_client_info": {
+          "package_name": "com.example.ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897430375646-jk6e4gbcr9jhj5n3avc4iei9glpqgti3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR79G4P02Me73Cwn8epWXir7C3MFBN-yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897430375646-jk6e4gbcr9jhj5n3avc4iei9glpqgti3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
